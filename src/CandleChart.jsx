@@ -30,7 +30,7 @@ const CandleChart = () => {
   }
 
   useEffect(() => {
-    getData("91569");
+    getData(window.location.pathname.split("/")[1]);
   }, []);
 
   const downloadChart = async (matchDetails) => {
