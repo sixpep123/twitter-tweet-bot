@@ -12,8 +12,6 @@ const CandleChart = () => {
   const [matchHeaders, setMatchHeaders] = useState("");
   const chartRef = useRef(null);
 
-  // (async () => {})();
-
   async function getData(matchId) {
     const apiData = await axios.get(
       "http://127.0.0.1:3008/api/normalizedRunRates/" + matchId
@@ -33,11 +31,24 @@ const CandleChart = () => {
     getData(window.location.pathname.split("/")[1]);
   }, []);
 
+  function downloadImage() {
+    const chartElement = chartRef.current;
+    html2canvas(chartElement).then((canvas) => {
+      const imageData = canvas.toDataURL("image/png");
+      const link = document.createElement("a");
+
+      link.href = imageData;
+      link.download = "resChart.png";
+      link.click();
+    });
+  }
+
   const downloadChart = async (matchDetails) => {
     const chartElement = chartRef.current;
 
     html2canvas(chartElement).then((canvas) => {
-      const imageData = canvas.toDataURL("");
+      const imageData = canvas.toDataURL("image/png");
+
       let response = axios.post(
         "http://127.0.0.1:3008/api/normalizedRunRates/postTweet",
         {
@@ -135,15 +146,28 @@ const CandleChart = () => {
   return (
     <div className="chart">
       <div ref={chartRef}>
+        <div className="infobar">
+          <div>
+            {`${matchHeaders.TeamA ? matchHeaders.TeamA : "TeamA"}${
+              matchHeaders.TeamB ? matchHeaders.TeamB : "TeamB"
+            }BALL`}
+          </div>
+          <div>{matchHeaders.date}</div>
+          <div>UNIT LENGTH : 1 OVER</div>
+        </div>
         <ReactApexChart
-          height={"900px"}
+          height={"800px"}
+          width={1500}
           series={state.series}
           options={state.options}
           type="candlestick"
         />
       </div>
+      {/* <button onClick={downloadImage}>Download</button> */}
     </div>
   );
 };
 
+// 102400
+// 123294
 export default CandleChart;
