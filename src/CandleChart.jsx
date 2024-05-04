@@ -49,7 +49,7 @@ const CandleChart = () => {
         background: "#000000",
       },
       title: {
-        text: "India Vs Australia",
+        text: "India Vs Pakisthan",
         align: "left",
         style: {
           color: "#FFFFFF",
