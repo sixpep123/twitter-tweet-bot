@@ -1,0 +1,478 @@
+[
+  {
+    "normalizedRunrate": 0.3333333333333333,
+    "balls": 32
+  },
+  {
+    "normalizedRunrate": 0.3282828282828283,
+    "balls": 33
+  },
+  {
+    "normalizedRunrate": 0.31862745098039214,
+    "balls": 34
+  },
+  {
+    "normalizedRunrate": 0.3101851851851852,
+    "balls": 36
+  },
+  {
+    "normalizedRunrate": 0.2982456140350877,
+    "balls": 38
+  },
+  {
+    "normalizedRunrate": 0.2905982905982906,
+    "balls": 39
+  },
+  {
+    "normalizedRunrate": 0.2833333333333333,
+    "balls": 40
+  },
+  {
+    "normalizedRunrate": 0.2698412698412698,
+    "balls": 42
+  },
+  {
+    "normalizedRunrate": 0.26356589147286824,
+    "balls": 43
+  },
+  {
+    "normalizedRunrate": 0.2553191489361702,
+    "balls": 47
+  },
+  {
+    "normalizedRunrate": 0.2534722222222222,
+    "balls": 48
+  },
+  {
+    "normalizedRunrate": 0.25163398692810457,
+    "balls": 51
+  },
+  {
+    "normalizedRunrate": 0.25,
+    "balls": 52
+  },
+  {
+    "normalizedRunrate": 0.24691358024691357,
+    "balls": 54
+  },
+  {
+    "normalizedRunrate": 0.2545454545454545,
+    "balls": 55
+  },
+  {
+    "normalizedRunrate": 0.24853801169590642,
+    "balls": 57
+  },
+  {
+    "normalizedRunrate": 0.2557471264367816,
+    "balls": 58
+  },
+  {
+    "normalizedRunrate": 0.2627118644067797,
+    "balls": 59
+  },
+  {
+    "normalizedRunrate": 0.2540983606557377,
+    "balls": 61
+  },
+  {
+    "normalizedRunrate": 0.25,
+    "balls": 62
+  },
+  {
+    "normalizedRunrate": 0.24102564102564103,
+    "balls": 65
+  },
+  {
+    "normalizedRunrate": 0.23737373737373738,
+    "balls": 66
+  },
+  {
+    "normalizedRunrate": 0.23529411764705882,
+    "balls": 68
+  },
+  {
+    "normalizedRunrate": 0.23333333333333334,
+    "balls": 70
+  },
+  {
+    "normalizedRunrate": 0.22916666666666666,
+    "balls": 72
+  },
+  {
+    "normalizedRunrate": 0.22602739726027396,
+    "balls": 73
+  },
+  {
+    "normalizedRunrate": 0.2222222222222222,
+    "balls": 75
+  },
+  {
+    "normalizedRunrate": 0.21929824561403508,
+    "balls": 76
+  },
+  {
+    "normalizedRunrate": 0.21581196581196582,
+    "balls": 78
+  },
+  {
+    "normalizedRunrate": 0.20781893004115226,
+    "balls": 81
+  },
+  {
+    "normalizedRunrate": 0.21084337349397592,
+    "balls": 83
+  },
+  {
+    "normalizedRunrate": 0.21568627450980393,
+    "balls": 85
+  },
+  {
+    "normalizedRunrate": 0.21511627906976744,
+    "balls": 86
+  },
+  {
+    "normalizedRunrate": 0.21264367816091953,
+    "balls": 87
+  },
+  {
+    "normalizedRunrate": 0.2074074074074074,
+    "balls": 90
+  },
+  {
+    "normalizedRunrate": 0.20512820512820512,
+    "balls": 91
+  },
+  {
+    "normalizedRunrate": 0.20035460992907803,
+    "balls": 94
+  },
+  {
+    "normalizedRunrate": 0.20877192982456141,
+    "balls": 95
+  },
+  {
+    "normalizedRunrate": 0.2222222222222222,
+    "balls": 96
+  },
+  {
+    "normalizedRunrate": 0.22164948453608246,
+    "balls": 97
+  },
+  {
+    "normalizedRunrate": 0.22053872053872053,
+    "balls": 99
+  },
+  {
+    "normalizedRunrate": 0.21782178217821782,
+    "balls": 101
+  },
+  {
+    "normalizedRunrate": 0.2222222222222222,
+    "balls": 102
+  },
+  {
+    "normalizedRunrate": 0.21794871794871795,
+    "balls": 104
+  },
+  {
+    "normalizedRunrate": 0.2169811320754717,
+    "balls": 106
+  },
+  {
+    "normalizedRunrate": 0.21495327102803738,
+    "balls": 107
+  },
+  {
+    "normalizedRunrate": 0.21450617283950618,
+    "balls": 108
+  },
+  {
+    "normalizedRunrate": 0.21406727828746178,
+    "balls": 109
+  },
+  {
+    "normalizedRunrate": 0.21212121212121213,
+    "balls": 110
+  },
+  {
+    "normalizedRunrate": 0.20982142857142858,
+    "balls": 112
+  },
+  {
+    "normalizedRunrate": 0.2079646017699115,
+    "balls": 113
+  },
+  {
+    "normalizedRunrate": 0.20833333333333331,
+    "balls": 114
+  },
+  {
+    "normalizedRunrate": 0.21304347826086956,
+    "balls": 115
+  },
+  {
+    "normalizedRunrate": 0.2094017094017094,
+    "balls": 117
+  },
+  {
+    "normalizedRunrate": 0.20868347338935575,
+    "balls": 119
+  },
+  {
+    "normalizedRunrate": 0.2125,
+    "balls": 120
+  },
+  {
+    "normalizedRunrate": 0.21584699453551912,
+    "balls": 122
+  },
+  {
+    "normalizedRunrate": 0.22154471544715448,
+    "balls": 123
+  },
+  {
+    "normalizedRunrate": 0.22983870967741934,
+    "balls": 124
+  },
+  {
+    "normalizedRunrate": 0.22933333333333333,
+    "balls": 125
+  },
+  {
+    "normalizedRunrate": 0.2328042328042328,
+    "balls": 126
+  },
+  {
+    "normalizedRunrate": 0.23177083333333334,
+    "balls": 128
+  },
+  {
+    "normalizedRunrate": 0.23126614987080105,
+    "balls": 129
+  },
+  {
+    "normalizedRunrate": 0.2282051282051282,
+    "balls": 130
+  },
+  {
+    "normalizedRunrate": 0.22727272727272727,
+    "balls": 132
+  },
+  {
+    "normalizedRunrate": 0.22556390977443608,
+    "balls": 133
+  },
+  {
+    "normalizedRunrate": 0.22512437810945274,
+    "balls": 134
+  },
+  {
+    "normalizedRunrate": 0.22916666666666666,
+    "balls": 136
+  },
+  {
+    "normalizedRunrate": 0.23479318734793186,
+    "balls": 137
+  },
+  {
+    "normalizedRunrate": 0.23309178743961353,
+    "balls": 138
+  },
+  {
+    "normalizedRunrate": 0.2314148681055156,
+    "balls": 139
+  },
+  {
+    "normalizedRunrate": 0.23095238095238096,
+    "balls": 140
+  },
+  {
+    "normalizedRunrate": 0.22769953051643194,
+    "balls": 142
+  },
+  {
+    "normalizedRunrate": 0.23032407407407407,
+    "balls": 144
+  },
+  {
+    "normalizedRunrate": 0.22988505747126436,
+    "balls": 145
+  },
+  {
+    "normalizedRunrate": 0.2328767123287671,
+    "balls": 146
+  },
+  {
+    "normalizedRunrate": 0.23825503355704697,
+    "balls": 149
+  },
+  {
+    "normalizedRunrate": 0.23777777777777778,
+    "balls": 150
+  },
+  {
+    "normalizedRunrate": 0.23620309050772628,
+    "balls": 151
+  },
+  {
+    "normalizedRunrate": 0.2374727668845316,
+    "balls": 153
+  },
+  {
+    "normalizedRunrate": 0.24242424242424243,
+    "balls": 154
+  },
+  {
+    "normalizedRunrate": 0.24516129032258063,
+    "balls": 155
+  },
+  {
+    "normalizedRunrate": 0.24786324786324787,
+    "balls": 156
+  },
+  {
+    "normalizedRunrate": 0.24628450106157113,
+    "balls": 157
+  },
+  {
+    "normalizedRunrate": 0.2478902953586498,
+    "balls": 158
+  },
+  {
+    "normalizedRunrate": 0.24382716049382716,
+    "balls": 162
+  },
+  {
+    "normalizedRunrate": 0.24233128834355827,
+    "balls": 163
+  },
+  {
+    "normalizedRunrate": 0.24491869918699186,
+    "balls": 164
+  },
+  {
+    "normalizedRunrate": 0.24702380952380953,
+    "balls": 168
+  },
+  {
+    "normalizedRunrate": 0.2455621301775148,
+    "balls": 169
+  },
+  {
+    "normalizedRunrate": 0.24463937621832357,
+    "balls": 171
+  },
+  {
+    "normalizedRunrate": 0.24233716475095785,
+    "balls": 174
+  },
+  {
+    "normalizedRunrate": 0.24095238095238095,
+    "balls": 175
+  },
+  {
+    "normalizedRunrate": 0.23958333333333334,
+    "balls": 176
+  },
+  {
+    "normalizedRunrate": 0.2382297551789077,
+    "balls": 177
+  },
+  {
+    "normalizedRunrate": 0.23782771535580524,
+    "balls": 178
+  },
+  {
+    "normalizedRunrate": 0.23743016759776536,
+    "balls": 179
+  },
+  {
+    "normalizedRunrate": 0.23796296296296296,
+    "balls": 180
+  },
+  {
+    "normalizedRunrate": 0.23873873873873874,
+    "balls": 185
+  },
+  {
+    "normalizedRunrate": 0.23796791443850268,
+    "balls": 187
+  },
+  {
+    "normalizedRunrate": 0.23897707231040563,
+    "balls": 189
+  },
+  {
+    "normalizedRunrate": 0.23734729493891799,
+    "balls": 191
+  },
+  {
+    "normalizedRunrate": 0.2378472222222222,
+    "balls": 192
+  },
+  {
+    "normalizedRunrate": 0.23969072164948454,
+    "balls": 194
+  },
+  {
+    "normalizedRunrate": 0.24017094017094018,
+    "balls": 195
+  },
+  {
+    "normalizedRunrate": 0.23857868020304568,
+    "balls": 197
+  },
+  {
+    "normalizedRunrate": 0.2382154882154882,
+    "balls": 198
+  },
+  {
+    "normalizedRunrate": 0.2370184254606365,
+    "balls": 199
+  },
+  {
+    "normalizedRunrate": 0.236318407960199,
+    "balls": 201
+  },
+  {
+    "normalizedRunrate": 0.23447712418300654,
+    "balls": 204
+  },
+  {
+    "normalizedRunrate": 0.23658536585365852,
+    "balls": 205
+  },
+  {
+    "normalizedRunrate": 0.23444976076555024,
+    "balls": 209
+  },
+  {
+    "normalizedRunrate": 0.23333333333333334,
+    "balls": 210
+  },
+  {
+    "normalizedRunrate": 0.2330173775671406,
+    "balls": 211
+  },
+  {
+    "normalizedRunrate": 0.2323943661971831,
+    "balls": 213
+  },
+  {
+    "normalizedRunrate": 0.23130841121495327,
+    "balls": 214
+  },
+  {
+    "normalizedRunrate": 0.2345679012345679,
+    "balls": 216
+  },
+  {
+    "normalizedRunrate": 0.2324159021406728,
+    "balls": 218
+  },
+  {
+    "normalizedRunrate": 0.2359208523592085,
+    "balls": 219
+  }
+]
