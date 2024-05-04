@@ -16,7 +16,7 @@ const CandleChart = () => {
 
   async function getData(matchId) {
     const apiData = await axios.get(
-      "http://192.168.29.135:3008/api/normalizedRunRates/" + matchId
+      "http://127.0.0.1:3008/api/normalizedRunRates/" + matchId
     );
     console.log("data received");
     setMatchData(apiData?.data?.candelData);
@@ -39,7 +39,7 @@ const CandleChart = () => {
     html2canvas(chartElement).then((canvas) => {
       const imageData = canvas.toDataURL("");
       let response = axios.post(
-        "http://192.168.29.135:3008/api/normalizedRunRates/postTweet",
+        "http://127.0.0.1:3008/api/normalizedRunRates/postTweet",
         {
           buffer: imageData,
           seriesName: matchDetails.seriesName,
