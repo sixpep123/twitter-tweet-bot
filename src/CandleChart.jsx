@@ -72,6 +72,9 @@ const CandleChart = () => {
         },
         background: "#000000",
       },
+      stroke: {
+        width: 2,
+      },
       title: {
         text: "Y - Runs per Ball, X - Overs",
         align: "left",
